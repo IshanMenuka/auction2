@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="auction-ejb">
+    <output-path>$PROJECT_DIR$/out/artifacts/auction_ejb</output-path>
+    <root id="archive" name="auction-ejb.jar" />
+  </artifact>
+</component>

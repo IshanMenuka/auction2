@@ -1,0 +1,15 @@
+com\menuka\ee\impl\AuctionManagerBean.class
+com\menuka\ee\impl\BidMessageBean.class
+com\menuka\ee\remote\AuctionManager.class
+com\menuka\ee\impl\BidManagerBean.class
+com\menuka\ee\impl\SingletonStateBean.class
+com\menuka\ee\model\Bid.class
+com\menuka\ee\remote\SingletonState.class
+com\menuka\ee\impl\UserSessionManagerBean.class
+com\menuka\ee\remote\UserDetails.class
+com\menuka\ee\store\UserStore.class
+com\menuka\ee\impl\UserDetailsBean.class
+com\menuka\ee\remote\BidManager.class
+com\menuka\ee\remote\UserSessionManager.class
+com\menuka\ee\model\Auction.class
+com\menuka\ee\model\User.class

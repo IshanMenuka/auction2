@@ -1,0 +1,15 @@
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\impl\AuctionManagerBean.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\impl\BidManagerBean.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\impl\BidMessageBean.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\impl\SingletonStateBean.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\impl\UserDetailsBean.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\impl\UserSessionManagerBean.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\model\Auction.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\model\Bid.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\model\User.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\remote\AuctionManager.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\remote\BidManager.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\remote\SingletonState.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\remote\UserDetails.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\remote\UserSessionManager.java
+C:\project\auction2\auction-ejb\src\main\java\com\menuka\ee\store\UserStore.java
