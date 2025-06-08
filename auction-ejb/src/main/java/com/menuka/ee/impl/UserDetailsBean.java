@@ -8,22 +8,22 @@ import jakarta.ejb.Stateless;
 public class UserDetailsBean implements UserDetails {
     @Override
     public String getUserName() {
-        return "Ashan Himantha";
+        return "Ishan Menuka";
     }
 
     @Override
     public String getUserEmail() {
-        return "ashan@gmail.com";
+        return "menuka@gmail.com";
     }
 
     @Override
     public String getUserPhoneNumber() {
-        return "0701234567";
+        return "0761234567";
     }
 
     @Override
     public String getUserAddress() {
-        return "26, Colombo, Sri Lanka";
+        return "11, Colombo, Sri Lanka";
     }
 
     @Override
