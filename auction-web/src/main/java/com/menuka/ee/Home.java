@@ -1,4 +1,4 @@
-package com.ashanhimantha.ee;
+package com.menuka.ee;
 
 import com.menuka.ee.remote.UserDetails;
 import jakarta.servlet.ServletException;

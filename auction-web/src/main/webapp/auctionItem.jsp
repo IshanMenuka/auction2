@@ -16,7 +16,7 @@
 
     try {
         Context ctx = new InitialContext();
-        String jndi = "java:global/auction-ejb/AuctionManagerBean!com.ashanhimantha.ee.remote.AuctionManager";
+        String jndi = "java:global/auction-ejb/AuctionManagerBean!com.menuka.ee.remote.AuctionManager";
         auctionManager = (AuctionManager) ctx.lookup(jndi);
 
         if (auction != null) {

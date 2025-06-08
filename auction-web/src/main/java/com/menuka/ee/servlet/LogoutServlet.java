@@ -1,4 +1,4 @@
-package com.ashanhimantha.ee.servlet;
+package com.menuka.ee.servlet;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.*;

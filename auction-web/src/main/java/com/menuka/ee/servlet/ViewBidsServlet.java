@@ -1,4 +1,4 @@
-package com.ashanhimantha.ee.servlet;
+package com.menuka.ee.servlet;
 
 import com.menuka.ee.model.Auction;
 import com.menuka.ee.remote.AuctionManager;
